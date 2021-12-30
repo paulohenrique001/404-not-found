@@ -30,7 +30,7 @@
 
 ## Visão Geral
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://raw.githubusercontent.com/paulohenrique001/404-not-found/main/image/captura_404-not-found.PNG)
 Esse desafio teve como objetico criar uma página de error 404, muito utilizada para exibir ao usuário que está navegando no site caso ele acesse alguma URL que não existe ou que está indisponível naquele momento.
 
 Foi adicionado algumas animações e uma ideia de possivél atualização de versão para tema escuro apenas para difereniar um pouco dos demais projetos. 
