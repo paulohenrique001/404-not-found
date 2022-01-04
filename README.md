@@ -22,13 +22,11 @@
   </h3>
 </div>
 
-## Table of Contents
+## Visão Geral
 
 - [Visão Geral](#visao-geral)
   - [Desenvolvido com](#desenvolvido-com)
 - [Contato](#contato)
-
-## Visão Geral
 
 ![screenshot](https://raw.githubusercontent.com/paulohenrique001/404-not-found/main/image/captura_404-not-found.PNG)
 Esse desafio teve como objetico criar uma página de error 404, muito utilizada para exibir ao usuário que está navegando no site caso ele acesse alguma URL que não existe ou que está indisponível naquele momento.
